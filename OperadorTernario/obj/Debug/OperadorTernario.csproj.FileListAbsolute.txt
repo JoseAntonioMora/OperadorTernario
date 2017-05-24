@@ -1,0 +1,6 @@
+C:\Users\Pepe\Documents\Visual Studio 2015\Projects\Blog\OperadorTernario\OperadorTernario\OperadorTernario\bin\Debug\OperadorTernario.exe.config
+C:\Users\Pepe\Documents\Visual Studio 2015\Projects\Blog\OperadorTernario\OperadorTernario\OperadorTernario\bin\Debug\OperadorTernario.exe
+C:\Users\Pepe\Documents\Visual Studio 2015\Projects\Blog\OperadorTernario\OperadorTernario\OperadorTernario\bin\Debug\OperadorTernario.pdb
+C:\Users\Pepe\Documents\Visual Studio 2015\Projects\Blog\OperadorTernario\OperadorTernario\OperadorTernario\obj\Debug\OperadorTernario.csprojResolveAssemblyReference.cache
+C:\Users\Pepe\Documents\Visual Studio 2015\Projects\Blog\OperadorTernario\OperadorTernario\OperadorTernario\obj\Debug\OperadorTernario.exe
+C:\Users\Pepe\Documents\Visual Studio 2015\Projects\Blog\OperadorTernario\OperadorTernario\OperadorTernario\obj\Debug\OperadorTernario.pdb
